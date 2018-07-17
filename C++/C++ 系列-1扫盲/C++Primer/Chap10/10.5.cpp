@@ -1,0 +1,2 @@
+// It will compare every single char to make sure whether the two C-style strings are equal;
+// The "string" type only works on the number of elements of s1, regardless the remainder of the literals in s2.

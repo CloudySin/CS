@@ -1,0 +1,1 @@
+// all converted to interger as a result of "0" as its parameter.
