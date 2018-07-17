@@ -2,7 +2,7 @@
 
 using namespace std;
 
-void exch(int &a, int &b)	
+void exch(int &a, int &b)	/*For exchanging values*/
 {
 	int temp;
 	temp = a;
