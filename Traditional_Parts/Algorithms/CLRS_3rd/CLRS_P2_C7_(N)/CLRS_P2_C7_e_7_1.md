@@ -12,7 +12,7 @@ Omitted
 What value of ![](http://latex.codecogs.com/gif.latex?q) does ![](http://latex.codecogs.com/gif.latex?PARTITION) return when all elements in the array ![](http://latex.codecogs.com/gif.latex?A\=\\left[p\..r\right]) have the same value? Modify ![](http://latex.codecogs.com/gif.latex?PARTITION) so that ![](http://latex.codecogs.com/gif.latex?q\=\\left\lfloor\frac{\left(p+r\right)}{2}\right\rfloor) when all elements in the array ![](http://latex.codecogs.com/gif.latex?A\left[p\..r\right]) have the same value.
 
 ### `Answer`
-![Modified_Partition](./CLRS_P2_C7_Algos/Done(1)/Quick_Sort/Modified_Partition)
+[Modified_Partition](./CLRS_P2_C7_Algos/Done(1)/Quick_Sort/Modified_Partition)
 
 
 ### 7.1-3
