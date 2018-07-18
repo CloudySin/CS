@@ -13,3 +13,19 @@ What value of ![](http://latex.codecogs.com/gif.latex?q) does ![](http://latex.c
 
 ### `Answer`
 
+
+
+###7.1-3
+***
+Give a brief argument that the running time of PARTITION on a subarray of size ![](http://latex.codecogs.com/gif.latex?n) is ![](http://latex.codecogs.com/gif.latex?\Theta\left(n\right)).
+
+
+### `Answer`
+
+
+
+###7.1-4
+***
+How would you modify ![](http://latex.codecogs.com/gif.latex?QUICKSORT) to sort into nonincreasing order?
+
+### `Answer`
