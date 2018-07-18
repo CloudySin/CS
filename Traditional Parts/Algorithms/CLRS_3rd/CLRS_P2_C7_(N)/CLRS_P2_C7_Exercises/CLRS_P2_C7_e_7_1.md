@@ -3,6 +3,6 @@
 - Omitted
 
 ## 7.1-2  What value of q does PARTITION return when all elements in the array  have the same value? Modify PARTITION so that 
-![](http://latex.codecogs.com/gif.latex?pq\;=\;\left\lfloor\frac{\left(p+r\right)}{2} \right\rfloor)
+![](http://latex.codecogs.com/gif.latex?pq\;=\;\left\lfloor\frac{\left(p+r\right)}{2}\right\rfloor)
 ![](http://latex.codecogs.com/gif.latex?pq\;=\;\left\lfloor\frac{\left(p+r\right)}{2}\right\rfloor)
 when all elements in the array  have the same value.
