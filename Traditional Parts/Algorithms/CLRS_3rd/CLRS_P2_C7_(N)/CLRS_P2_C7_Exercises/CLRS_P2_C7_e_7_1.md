@@ -3,6 +3,7 @@
 Using Figure 7.1 as a model, illustrate the operation of PARTITION on the array ![](http://latex.codecogs.com/gif.latex?A\=\<13,19,9,5,12,8,7,4,21,2,6,11>).
 
 ### `Answer`
+
 Omitted
 
 
