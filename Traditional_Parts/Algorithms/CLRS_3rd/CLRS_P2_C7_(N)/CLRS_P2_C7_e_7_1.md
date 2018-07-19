@@ -3,7 +3,6 @@
 Using Figure 7.1 as a model, illustrate the operation of PARTITION on the array ![](http://latex.codecogs.com/gif.latex?A\=\<13,19,9,5,12,8,7,4,21,2,6,11>).
 
 ### `Answer`
-
 Omitted
 
 
@@ -21,7 +20,7 @@ Give a brief argument that the running time of PARTITION on a subarray of size !
 
 
 ### `Answer`
-
+Omitted.
 
 
 ### 7.1-4
@@ -29,3 +28,4 @@ Give a brief argument that the running time of PARTITION on a subarray of size !
 How would you modify ![](http://latex.codecogs.com/gif.latex?QUICKSORT) to sort into nonincreasing order?
 
 ### `Answer`
+Changing the conditions of exchanges to `>` of course!
