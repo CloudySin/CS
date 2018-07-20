@@ -4,8 +4,8 @@
 What is the smallest possible depth of a leaf in a decision tree for a comparison sort?
 
 ### `Answer`
-When the input array is already sorted, the number of edges shall be n - 1.
 
+When the input array is already sorted, the number of edges shall be n - 1.
 
 
 ### 8.1-2
@@ -17,10 +17,9 @@ Obtain asymptotically tight bounds on lg(n!) without using Stirling’s approxim
 ![](http://latex.codecogs.com/gif.latex?\sum_{k\=\1}^{n}{lgk}\leq\\sum_{k\=\1}^{n}{lgn\=\nlgn\=\\Omicron\left(nlgn\right)}).
 
 
-
 ### 8.1-3
 ***
-Show that there is no comparison sort whose running time is linear for at least half of the nŠ inputs of length n. What about a fraction of 1=n of the inputs of length n? What about a fraction 1=2n?
+Show that there is no comparison sort whose running time is linear for at least half of the n! inputs of length n. What about a fraction of 1/n of the inputs of length n? What about a fraction ![](http://latex.codecogs.com/gif.latex?1/2^{n})?
 
 ### `Answer`
 
