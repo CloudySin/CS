@@ -30,10 +30,10 @@ Same as 7.2-2, it's the worst-case partitioning as well. The result is absolutel
 Banks often record transactions on an account in order of the times of the transac- tions, but many people like to receive their bank statements with checks listed in order by check number. People usually write checks in order by check number, and merchants usually cash them with reasonable dispatch. The problem of converting time-of-transaction ordering to check-number ordering is therefore the problem of sorting almost-sorted input. Argue that the procedure INSERTION-SORT would tend to beat the procedure QUICKSORT on this problem.
 
 ### `Answer`
-Time: 
-  Quick_Sort: ![](http://latex.codecogs.com/gif.latex?\Theta\left(n^{2}\right)).
 
-  Insertion_Sort: Less than ![](http://latex.codecogs.com/gif.latex?\Theta\left(n^{2}\right)).(Due to the already sorted order.)
+Quick_Sort: ![](http://latex.codecogs.com/gif.latex?\Theta\left(n^{2}\right)).
+
+Insertion_Sort: Less than ![](http://latex.codecogs.com/gif.latex?\Theta\left(n^{2}\right)).(Due to the already sorted order.)
 
 
 ### 7.2-5
