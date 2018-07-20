@@ -13,9 +13,9 @@ When the input array is already sorted, the number of edges shall be n - 1.
 Obtain asymptotically tight bounds on lg(n!) without using Stirling’s approximation. Instead, evaluate the summation ![](http://latex.codecogs.com/gif.latex?\sum_{k\=\1}^{n}{lgk}) using techniques from Section A.2.
 
 ### `Answer`
-![](http://latex.codecogs.com/gif.latex?%0d%0a\\sum_{k=1}^n\\lg{k}%20\\le%20\\sum_{k=1}^n\\lg{n}%20=%20n\\lg{n}%20=%20O\(n\\lg{n}\)%20)
 
-![](http://latex.codecogs.com/gif.latex?%0d%0a\\sum_{k=1}^n\\lg{k}%20\\ge%20\\lg{\\sqrt{n}^n}%20=%20\\frac{n}{2}\\lg{n}%20=%20O\(n\\lg{n}\)%20)
+![](http://latex.codecogs.com/gif.latex?\sum_{k\=\1}^{n}{lgk}\leq\\sum_{k\=\1}^{n}{lgn\=\nlgn\=\\Omicron\left(nlgn\right)}).
+
 
 
 ### 8.1-3
