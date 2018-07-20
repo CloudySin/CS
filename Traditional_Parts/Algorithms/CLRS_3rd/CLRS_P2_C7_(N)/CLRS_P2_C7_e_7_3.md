@@ -12,4 +12,4 @@ When RANDOMIZED-QUICKSORT runs, how many calls are made to the random-number gen
 
 ### `Answer`
 Worst case:  Same as it's Height, which is ![](http://latex.codecogs.com/gif.latex?\Theta\left(lgn\right)).
-Best case: Half of the worst-case, which is ![](http://latex.codecogs.com/gif.latex?\Theta\left(lg\left(\frac{n}{2}\right)\right).
+Best case: Half of the worst-case, which is ![](http://latex.codecogs.com/gif.latex?\Theta) ![](http://latex.codecogs.com/gif.latex?(lg\left(\frac{n}{2}\right)))
