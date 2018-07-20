@@ -31,8 +31,8 @@ Banks often record transactions on an account in order of the times of the trans
 
 ### `Answer`
 Time: 
-	Quick_Sort: ![](http://latex.codecogs.com/gif.latex?\Theta\left(nlgn\right)).
-	Insertion_Sort: ![](http://latex.codecogs.com/gif.latex?\Theta\left(n\right)).
+	Quick_Sort: ![](http://latex.codecogs.com/gif.latex?\Theta\left(n^{2}\right)).
+	Insertion_Sort: Less than ![](http://latex.codecogs.com/gif.latex?\Theta\left(n^{2}\right)).(Due to the already sorted order.)
 
 
 ### 7.2-5
