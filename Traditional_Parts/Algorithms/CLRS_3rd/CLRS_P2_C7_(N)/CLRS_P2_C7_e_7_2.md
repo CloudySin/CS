@@ -19,10 +19,10 @@ It's the worst-case partitioning, which is the same as 7.2.1, which is ![](http:
 
 ### 7.2-3
 ***
-Show that the running time of QUICKSORT is ‚.n2/ when the array A contains distinct elements and is sorted in decreasing order.
+Show that the running time of QUICKSORT is ![](http://latex.codecogs.com/gif.latex?\Theta\left(n^{2}\right)) when the array A contains distinct elements and is sorted in decreasing order.
 
 ### `Answer`
-
+Same as 7.2-2, it's the worst-case partitioning as well. The result is absolutely ![](http://latex.codecogs.com/gif.latex?\Theta\left(n^{2}\right)).
 
 
 ### 7.2-4
