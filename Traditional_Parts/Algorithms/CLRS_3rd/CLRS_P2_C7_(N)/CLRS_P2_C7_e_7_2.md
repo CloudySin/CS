@@ -1,12 +1,12 @@
 ![](http://latex.codecogs.com/gif.latex?)
 
-### 7.2-1
+### Exercises 7.2-1
 ***
-Use the substitution method to prove that the recurrence ![](http://latex.codecogs.com/gif.latex?T\left\n\right\\=\T\left(n-1\right\\+\\Theta\left\n\right\) has the solution ![](http://latex.codecogs.com/gif.latex?T\left(n\right)\ =\ \Theta \left( n^{2} \right)), as claimed at the beginning of Section 7.2.
+Use the substitution method to prove that the recurrence T (n) = T (n - 1) + Θ(n) has the
+solution T (n) = ![](http://latex.codecogs.com/gif.latex?\Theta\left(n^{2}\right)), as claimed at the beginning of Section 7.2.
 
 ### `Answer`
-![](http://latex.codecogs.com/gif.latex?T\left( n \right)\ =\ T\left( n^{}-1 \right)\ +\ \Theta \left( n \right)\ =\ 
-T\left( n-2 \right)\ +\ \Theta \left( n-1 \right)\ +\ \Theta \left( n \right)\ =\ ...\ =\ \Theta \left( 1 \right)\ +\ \Theta \left( 2 \right)\ +\ ...\ +\ \Theta \left( n \right)\ =\ \Theta \left( n^{2} \right)
+T(n) = T(n-1) + Θ(n) = Θ(n) + Θ(n-1) + ... + Θ(1) = Θ(n^2)
 
 
 ### 7.2-2
