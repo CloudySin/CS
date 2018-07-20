@@ -6,7 +6,7 @@ Use the substitution method to prove that the recurrence ![](http://latex.codeco
 solution ![](http://latex.codecogs.com/gif.latex?T\left(n\right)) = ![](http://latex.codecogs.com/gif.latex?\Theta\left(n^{2}\right)), as claimed at the beginning of Section 7.2.
 
 ### `Answer`
-T(n) = T(n-1) + Θ(n) = Θ(n) + Θ(n-1) + ... + Θ(1) = Θ(n^2)
+`![](http://latex.codecogs.com/gif.latex?T\left(n\right)) = ![](http://latex.codecogs.com/gif.latex?T\left(n-1\right)) + ![](http://latex.codecogs.com/gif.latex?\Theta\left(n\right)) = ![](http://latex.codecogs.com/gif.latex?\Theta\left(n\right)) + ![](http://latex.codecogs.com/gif.latex?\Theta\left(n-1\right)) + ... + ![](http://latex.codecogs.com/gif.latex?\Theta\left(1\right)) = ![](http://latex.codecogs.com/gif.latex?\Theta\left(n^{2}\right))`
 
 
 ### 7.2-2
