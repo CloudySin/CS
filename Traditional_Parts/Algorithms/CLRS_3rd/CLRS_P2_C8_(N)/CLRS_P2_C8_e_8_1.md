@@ -14,6 +14,9 @@ Obtain asymptotically tight bounds on lg(n!) without using Stirling’s approxim
 
 ### `Answer`
 
+![](http://latex.codecogs.com/gif.latex?\sum_{k\=\1}^{n}{lgk}\leq\\sum_{k\=\1}^{n}{lgn\=\nlgn\=\\Omicron\left(nlgn\right)}).
+
+![](http://latex.codecogs.com/gif.latex?\sum_{k\=\1}^{n}{lgk}\geq\\sum_{k\=\1}^{n}{lg\sqrt{n}\=\\frac{n}{2}lgn\=\\Omicron\left(nlgn\right)}).
 
 
 
