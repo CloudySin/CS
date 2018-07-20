@@ -38,7 +38,7 @@ Insertion_Sort: Less than ![](http://latex.codecogs.com/gif.latex?\Theta\left(n^
 
 ### 7.2-5
 ***
-Suppose that the splits at every level of quicksort are in the proportion 1 􏰐  ̨ to  ̨, where 0 <  ̨ 􏰎 1=2 is a constant. Show that the minimum depth of a leaf in the re- cursion tree is approximately 􏰐 lg n= lg  ̨ and the maximum depth is approximately 􏰐 lg n= lg.1 􏰐  ̨/. (Don’t worry about integer round-off.)
+Suppose that the splits at every level of quicksort are in the proportion 1-![](http://latex.codecogs.com/gif.latex?\alpha) to ![](http://latex.codecogs.com/gif.latex?\alpha), where 0 < ![](http://latex.codecogs.com/gif.latex?\alpha) 􏰎![](http://latex.codecogs.com/gif.latex?\leq) 1/2 is a constant. Show that the minimum depth of a leaf in the recursion tree is approximately ![](http://latex.codecogs.com/gif.latex?􏰐\frac{-lg\left(n\right)}{lg\left( 1-\alpha  \right)}),and the maximum depth is approximately 􏰐 lg n= lg.1 􏰐  ̨/. (Don’t worry about integer round-off.)
 7.3 A randomized version of quicksort 179
 
 ### `Answer`
