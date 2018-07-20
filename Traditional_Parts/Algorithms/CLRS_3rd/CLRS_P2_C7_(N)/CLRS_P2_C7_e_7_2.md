@@ -14,7 +14,7 @@ solution ![](http://latex.codecogs.com/gif.latex?T\left(n\right)) = ![](http://l
 What is the running time of QUICKSORT when all elements of array A have the same value?
 
 ### `Answer`
-
+It's the worst-case partitioning, which is the same as 7.2.1, which is ![](http://latex.codecogs.com/gif.latex?\Theta\left(n^{2}\right)).
 
 
 ### 7.2-3
